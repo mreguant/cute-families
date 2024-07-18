@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="https://mreguant.github.io/cute-families//feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://mreguant.github.io/cute-families//" rel="alternate" type="text/html" />
+  <updated>2024-07-18T12:48:59-05:00</updated>
+  <id>https://mreguant.github.io/cute-families//</id>
+
+  
+    <title type="html">cute families</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Spooky Family</title>
+      <link href="https://mreguant.github.io/cute-families//" rel="alternate" type="text/html" title="Spooky Family" />
+      <published>2024-07-01T00:00:00-05:00</published>
+      <updated>2024-07-01T00:00:00-05:00</updated>
+      <id>https://mreguant.github.io/cute-families//spooky-family</id>
+      <content type="html" xml:base="https://mreguant.github.io/cute-families//"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Nature Family</title>
+      <link href="https://mreguant.github.io/cute-families//" rel="alternate" type="text/html" title="Nature Family" />
+      <published>2024-07-01T00:00:00-05:00</published>
+      <updated>2024-07-01T00:00:00-05:00</updated>
+      <id>https://mreguant.github.io/cute-families//nature-family</id>
+      <content type="html" xml:base="https://mreguant.github.io/cute-families//"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mochi Family</title>
+      <link href="https://mreguant.github.io/cute-families//" rel="alternate" type="text/html" title="Mochi Family" />
+      <published>2024-07-01T00:00:00-05:00</published>
+      <updated>2024-07-01T00:00:00-05:00</updated>
+      <id>https://mreguant.github.io/cute-families//mochi-family</id>
+      <content type="html" xml:base="https://mreguant.github.io/cute-families//"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
